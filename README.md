@@ -1,1 +1,1 @@
-# Univariate-Linear-Regression
+# Linear-Regression
