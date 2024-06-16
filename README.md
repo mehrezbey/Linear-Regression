@@ -8,7 +8,7 @@ This repository contains various implementations of linear regression models, in
   - `train_univariate.csv`: Dataset for univariate linear regression.
   - `train_multi.csv`: Dataset for multivariate linear regression, containing student performance indices based on factors such as hours of study, sleep, previous scores, etc.
 
-- [univariate_linear_regression.ipynb](univariate_linear_regression.ipynb): Implementation of univariate linear regression from scratch, including gradient descent, cost calculation, evaluation, and prediction.
+- `univariate_linear_regression.ipynb`: Implementation of univariate linear regression from scratch, including gradient descent, cost calculation, evaluation, and prediction.
 
 - `multiple_linear_regression.ipynb`: Implementation of multivariate linear regression from scratch. This notebook includes:
   - Gradient descent optimization.
