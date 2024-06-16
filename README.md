@@ -35,7 +35,7 @@ This repository contains various implementations of linear regression models, in
 - **Description**:
   - Implements multivariate linear regression from scratch.
   - Optimizes using gradient descent.
-  - Includes comprehensive error calculation and data cleaning steps.
+  - Includes comprehensive error calculation.
   - Demonstrates the importance of feature scaling and its impact on the model's speed, performance, and accuracy.
 
 ### 3. Multivariate Linear Regression (using scikit-learn)
@@ -71,7 +71,7 @@ This repository contains various implementations of linear regression models, in
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/Linear-Regression.git
+    git clone https://github.com/mehrezbey/Linear-Regression.git
     cd Linear-Regression
     ```
 2. Launch Jupyter Notebook:
